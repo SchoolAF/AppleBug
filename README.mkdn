@@ -4,11 +4,16 @@ Asesmen Akhir Semester Algoritma I
 
 ## Informasi Mahasiswa
 #### Nama
+```
 Aliffathur Muhammad Revan
+```
 
 #### NPM
+```
 714220066
+```
 
 #### Kelas/Prodi
+```
 2B - D4 Teknik Informatika
-
+```
